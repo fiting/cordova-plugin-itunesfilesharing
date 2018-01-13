@@ -7,7 +7,7 @@
     <license>Apache 2.0 License</license>
     <platform name="ios">
         <config-file target="*-Info.plist" parent="UIFileSharingEnabled">
-            <YES/>
+          <string>YES</string>
         </config-file>
     </platform>
 </plugin>
